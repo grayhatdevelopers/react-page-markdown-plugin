@@ -17,6 +17,7 @@ $ yarn add
 
 ```
 import {myPlugin} from './testing.tsx'
+import Editor from '@react-page/editor';
 
 const cellPlugins = [myPlugin];
 
@@ -24,9 +25,9 @@ export default function SimpleExample() {
   const [value, setValue] = useState("");
 
   return (
-    <PageLayout>
+    <div>
       <Editor cellPlugins={cellPlugins} value={value} onChange={setValue} />
-    </PageLayout>
+    </div>
   );
 }
 
