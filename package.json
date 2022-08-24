@@ -1,0 +1,60 @@
+{
+  "name": "react-page-markdown-plugin",
+  "version": "1.0.4",
+  "description": "react-page plugin to render markdown as HTML in realtime",
+  "main": "./lib/index.js",
+  "module": "./lib-es/index.js",
+  "typings": "./lib/index.d.ts",
+  "sideEffects": false,
+  "scripts": {
+    "build": "npm run build:lib",
+    "build:watch": "npm run build:lib:watch",
+    "build:lib": "tsc -p ./tsconfig.json && tsc -p ./tsconfig-es.json",
+    "build:lib:watch": "yarn build:lib -- --watch",
+    "clean": "rimraf \"lib\" && rimraf \"lib-es\" && rm -f *.tsbuildinfo"
+  },
+  "keywords": [
+    "react-page",
+    "plugin",
+    "markdown"
+  ],
+  "author": {
+    "name": "Talal Ahmed",
+    "email": "talalahmed252@gmail.com",
+    "url": "https://talal02.github.io"
+  },
+  "contributors": [
+    {
+      "name": "Muhammad Talha"
+    },
+    {
+      "name": "Grayhat Developers",
+      "email": "info@grayhat.com.pk",
+      "url": "https://www.grayhat.com.pk/"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@react-page/editor": "^4.1.1",
+    "react-markdown": "^8.0.3"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.8",
+    "@types/node": "^18.7.13",
+    "typescript": "^4.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grayhatdevelopers/react-page-markdown-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grayhatdevelopers/react-page-markdown-plugin/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -65,8 +65,3 @@ ReactPage is a smart, extensible and modern editor (“WYSIWYG”) for the web w
 A demo can be found on [Demo](https://react-page.github.io/) which reflects the stable release channel on npm.
 the current beta version is also available as a demo: [beta Demo](https://react-page.github.io/beta)
 
-
-
-
-
-
