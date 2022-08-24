@@ -46,5 +46,18 @@ export default function SimpleExample() {
 }
 
 ```
+## Gif
+here i will add gif
+
+## About ReactPage
+ReactPage is a smart, extensible and modern editor (“WYSIWYG”) for the web written in React. If you are fed up with the limitations of contenteditable, visit the [official documentation](https://react-page.github.io/docs/#/) of ReactPage.
+
+### ReactPage Demo
+A demo can be found on [Demo](https://react-page.github.io/) which reflects the stable release channel on npm.
+the current beta version is also available as a demo: [beta Demo](https://react-page.github.io/beta)
+
+
+
+
 
 
