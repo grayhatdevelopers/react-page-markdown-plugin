@@ -1,5 +1,5 @@
 # react-page-markdown-plugin
-The react-page-markdown-plugin allows one to render markdown in a react page. The react-page-markdown-plugin renders all the markdown features we need for creating README files for example headings, lists and images etc.
+The react-page-markdown-plugin allows one to render markdown in a react page. The react-page-markdown-plugin renders all the markdown features we need for creating README files, for example, headings, lists and images etc.
 
 ## Installation
 
