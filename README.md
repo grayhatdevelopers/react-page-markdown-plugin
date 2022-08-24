@@ -52,7 +52,7 @@ export default function SimpleExample() {
 
 ```
 
-## Markdown Plugin in action
+## Markdown Plugin in Action
 ![Animation](https://user-images.githubusercontent.com/61515279/186479524-de4fca5b-ba46-4ee1-814e-d05aa7db09d2.gif)
 
 
