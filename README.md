@@ -1,25 +1,30 @@
 # react-page-markdown-plugin
-The react-page-markdown-plugin allows one to render markdown in a react page. The react-page-markdown-plugin renders all the markdown features we need for creating README files, for example, headings, lists and images etc.
+This Markdown plugin allows one to render markdown in a ReactPage component. It uses the [react-markdown library](https://www.npmjs.com/package/react-markdown) to render user-inputted markdown, basic and advanced, on-the-fly. 
+
+## What is Markdown, even?
+It is a format which allows a user to easily define headings, lists and images etc, right through simple syntax. This README is written in Markdown too!
 
 ## Installation
 
 using npm
 ```
-$ npm install
+npm install
 ```
 or using yarn
 
 ```
-$ yarn add 
+yarn add 
 ```
 
 ## Instantiation
-Define the react-page-markdown-plugin as part of the cellPlugins list.
+Define the ```react-page-markdown-plugin``` as part of the cellPlugins list.
 ```
+import Markdown from './testing.tsx';
+
+
 const cellPlugins = [
 ... // Other cell plugins as usual
 Markdown
-
 ];
 
 
@@ -30,7 +35,7 @@ Markdown
 ## Usage Example
 
 ```
-import {Markdown} from './testing.tsx'
+import Markdown from './testing.tsx'
 import Editor from '@react-page/editor';
 
 const cellPlugins = [Markdown];
@@ -46,8 +51,11 @@ export default function SimpleExample() {
 }
 
 ```
+
 ## Gif
 here i will add gif
+
+---
 
 ## About ReactPage
 ReactPage is a smart, extensible and modern editor (“WYSIWYG”) for the web written in React. If you are fed up with the limitations of contenteditable, visit the [official documentation](https://react-page.github.io/docs/#/) of ReactPage.
