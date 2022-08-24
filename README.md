@@ -52,8 +52,9 @@ export default function SimpleExample() {
 
 ```
 
-## Gif
-here i will add gif
+## Markdown Plugin in action
+![Animation](https://user-images.githubusercontent.com/61515279/186479524-de4fca5b-ba46-4ee1-814e-d05aa7db09d2.gif)
+
 
 ---
 
