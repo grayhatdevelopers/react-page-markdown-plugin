@@ -8,12 +8,12 @@ It is a format which allows a user to easily define headings, lists and images e
 
 using npm
 ```
-npm install
+npm i react-page-markdown-plugin
 ```
 or using yarn
 
 ```
-yarn add 
+yarn add react-page-markdown-plugin
 ```
 
 ## Instantiation
