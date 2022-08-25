@@ -19,7 +19,7 @@ yarn add react-page-markdown-plugin
 ## Instantiation
 Define the ```react-page-markdown-plugin``` as part of the cellPlugins list.
 ```
-import Markdown from './testing.tsx';
+import Markdown from 'react-page-markdown-plugin';
 
 
 const cellPlugins = [
@@ -35,7 +35,7 @@ Markdown
 ## Usage Example
 
 ```
-import Markdown from './testing.tsx'
+import Markdown from 'react-page-markdown-plugin';
 import Editor from '@react-page/editor';
 
 const cellPlugins = [Markdown];
