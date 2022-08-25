@@ -1,10 +1,8 @@
 {
   "name": "react-page-markdown-plugin",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "description": "react-page plugin to render markdown as HTML in realtime",
   "main": "./lib/index.js",
-  "module": "./lib-es/index.js",
-  "typings": "./lib/index.d.ts",
   "sideEffects": false,
   "scripts": {
     "build": "npm run build:lib",
