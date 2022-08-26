@@ -64,7 +64,7 @@ export default function SimpleExample() {
 
 ## React Page Markdown Plugin Demo
 
-A demo for markdown plugin can be found [here](https://react-page-markdown-plugin.netlify.app/). Have fun exploring.
+A demo for markdown plugin can be found [here](https://grayhatdevelopers.github.io/react-page-markdown-plugin/). Have fun exploring.
 
 ## About ReactPage
 
