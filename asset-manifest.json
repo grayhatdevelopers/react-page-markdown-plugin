@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-page-markdown-plugin/static/css/main.ee596579.css",
+    "main.js": "/react-page-markdown-plugin/static/js/main.3b7dd845.js",
+    "static/js/990.0e835ba9.chunk.js": "/react-page-markdown-plugin/static/js/990.0e835ba9.chunk.js",
+    "static/js/821.5ff733b7.chunk.js": "/react-page-markdown-plugin/static/js/821.5ff733b7.chunk.js",
+    "static/js/766.8cb9bf8a.chunk.js": "/react-page-markdown-plugin/static/js/766.8cb9bf8a.chunk.js",
+    "static/js/405.775e4377.chunk.js": "/react-page-markdown-plugin/static/js/405.775e4377.chunk.js",
+    "static/js/815.9c0d984d.chunk.js": "/react-page-markdown-plugin/static/js/815.9c0d984d.chunk.js",
+    "index.html": "/react-page-markdown-plugin/index.html",
+    "main.ee596579.css.map": "/react-page-markdown-plugin/static/css/main.ee596579.css.map",
+    "main.3b7dd845.js.map": "/react-page-markdown-plugin/static/js/main.3b7dd845.js.map",
+    "990.0e835ba9.chunk.js.map": "/react-page-markdown-plugin/static/js/990.0e835ba9.chunk.js.map",
+    "821.5ff733b7.chunk.js.map": "/react-page-markdown-plugin/static/js/821.5ff733b7.chunk.js.map",
+    "766.8cb9bf8a.chunk.js.map": "/react-page-markdown-plugin/static/js/766.8cb9bf8a.chunk.js.map",
+    "405.775e4377.chunk.js.map": "/react-page-markdown-plugin/static/js/405.775e4377.chunk.js.map",
+    "815.9c0d984d.chunk.js.map": "/react-page-markdown-plugin/static/js/815.9c0d984d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee596579.css",
+    "static/js/main.3b7dd845.js"
+  ]
+}
