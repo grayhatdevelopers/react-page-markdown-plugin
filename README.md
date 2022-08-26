@@ -62,6 +62,10 @@ export default function SimpleExample() {
 
 ---
 
+## React Page Markdown Plugin Demo
+
+A demo for markdown plugin can be found [here](https://react-page-markdown-plugin.netlify.app/). Have fun exploring.
+
 ## About ReactPage
 
 ReactPage is a smart, extensible and modern editor (“WYSIWYG”) for the web written in React. If you are fed up with the limitations of contenteditable, visit the [official documentation](https://react-page.github.io/docs/#/) of ReactPage.
