@@ -1,6 +1,6 @@
 {
   "name": "react-page-markdown-plugin",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "react-page plugin to render markdown as HTML in realtime",
   "main": "./lib/index.js",
   "sideEffects": false,
@@ -56,5 +56,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://react-page-markdown-plugin.netlify.app/"
+  "homepage": "https://grayhatdevelopers.github.io/react-page-markdown-plugin/"
 }
